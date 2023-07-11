@@ -81,13 +81,13 @@ WIDTH, HEIGHT = 600, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 
-sound_im = pygame.mixer.Sound("C:\\Users\\eoeld\\Desktop\\impressive.wav")
-sound_co = pygame.mixer.Sound("C:\\Users\\eoeld\\Desktop\\collide.wav")
-sound_ov = pygame.mixer.Sound("C:\\Users\\eoeld\\Desktop\\gameover.wav")
+sound_im = pygame.mixer.Sound("impressive.wav")
+sound_co = pygame.mixer.Sound("collide.wav")
+sound_ov = pygame.mixer.Sound("gameover.wav")
 
 score = 0
 
-background_screen = pygame.image.load("C:\\Users\\eoeld\\Desktop\\1.png")
+background_screen = pygame.image.load("1.png")
 background_screen = pygame.transform.scale(background_screen, (WIDTH, HEIGHT))
 
 # 변수들
