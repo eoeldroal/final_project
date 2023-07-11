@@ -32,6 +32,9 @@ Requirements
 To run this game, Python and the Pygame library must be installed on your machine. You also need to ensure the sound and image files used in the game are in the correct locations.
 
 ## description of files on Github repo.
+
 final_1.py : This is the python file that contaions application. If you run this file, you can enjoy my application.
+
 1.png : Background screen image file.
+
 impressive.wav / collide.wav / gameover.wav : Sound files.
