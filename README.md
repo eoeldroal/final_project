@@ -1,6 +1,6 @@
 20201082 박현빈 final project.
 
-#Description of my application
+##Description of my application
 
 This application is a game developed with the Pygame library in Python. In this game, a ball bounces around the screen and interacts with various objects. The player controls two paddles to direct the ball and earns points by colliding with different obstacles.
 
