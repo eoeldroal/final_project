@@ -1,6 +1,6 @@
 20201082 박현빈 final project.
 
-##Description of my application
+## description of my application.
 
 This application is a game developed with the Pygame library in Python. In this game, a ball bounces around the screen and interacts with various objects. The player controls two paddles to direct the ball and earns points by colliding with different obstacles.
 
@@ -30,3 +30,8 @@ Rectangle Collision: The game calculates the closest point on the rectangle to t
 Triangle Collision: The ball's position is projected onto the axes of the triangle. A collision is registered if the ball falls within the triangle's range on all axes.
 Requirements
 To run this game, Python and the Pygame library must be installed on your machine. You also need to ensure the sound and image files used in the game are in the correct locations.
+
+## description of files on Github repo.
+final_1.py : This is the python file that contaions application. If you run this file, you can enjoy my application.
+1.png : Background screen image file.
+impressive.wav / collide.wav / gameover.wav : Sound files.
